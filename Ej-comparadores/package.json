@@ -1,0 +1,17 @@
+{
+  "name": "juanjs",
+  "version": "1.0.0",
+  "description": "Primer proyecto",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "saludar": "node holamundo.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hello",
+    "word"
+  ],
+  "author": "juan",
+  "license": "ISC"
+}
